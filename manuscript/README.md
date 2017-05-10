@@ -1,30 +1,6 @@
-**This document (12 pages)**</br>
-Poikola, Antti, Kai Kuikkaniemi, and Harri Honko. 2015. “MyData – A Nordic Model for human-centered personal data management and processing.” Ministry of Transport and Communications. Available at (PDF): [http://urn.fi/URN:ISBN:978-952-243-455-5](http://urn.fi/URN:ISBN:978-952-243-455-5).
-
-</br>
-
-**Original version in Finnish (80 pages)**</br>
-Poikola, Antti, Kai Kuikkaniemi, and Ossi Kuittinen. 2014. “My Data - Johdatus Ihmiskeskeiseen Henkilötiedon Hyödyntämiseen.” Ministry of Transport and Communications. Available at (PDF):[http://urn.fi/URN:ISBN:978-952-243-418-0](http://urn.fi/URN:ISBN:978-952-243-418-0).
-
-</br></br>
-
 ![image alt text](images/cover_small.png)
 
 This white paper presents a framework, principles, and a model for a human-centric approach to the managing and processing of personal information. The approach – defined as MyData – is based on the right of individuals to access the data collected about them. The core idea is that individuals should be in control of their own data. The MyData approach aims at strengthening digital human rights while opening new opportunities for businesses to develop innovative personal data based services built on mutual trust.
-
-* [MyData Principles](#principles)</br>
-* [1 - What is MyData?](#01)</br>
-* [2 - What are the benefits of MyData?](#02)</br>
-* [3 - Why is MyData an infrastructure level approach?](#03)</br>
-* [4 - How does MyData approach work in practice?](#04)</br>
-* [5 - Why is MyData is focused on consent?](#05)</br>
-* [6 - Why should companies be interested in MyData?](#06)</br>
-* [7 - How does MyData help me manage my privacy?](#07)</br>
-* [8 - What are the next steps?](#08)</br>
-* [9 - Give me some examples!](#09)</br>
-* [Links and references](#links)
-
-</br></hr><a name="principles"></a>
 
 # MyData Principles
 
@@ -38,15 +14,11 @@ This white paper presents a framework, principles, and a model for a human-centr
 
 Contributors: Antti Eskola, Juuso Parkkinen, Mark Lizar, Molly Schwartz, Myles Byrne, Samuel Rinnetmäki and Tuukka Lehtiniemi
 
-</br></hr><a name="01"></a>
-
 # 1 - What is MyData?
 
 The term **MyData** refers 1) to a new approach, a paradigm shift in personal data management and processing that seeks to transform the current organization centric system to a human centric system, 2) to personal data as a resource that the individual can access and control. Personal data that is not under the respective individual's own control cannot be called MyData.
 
-The aim is to provide individuals with the practical means to access, obtain, and use datasets containing their personal information, such as purchasing data, traffic data, telecommunications data, medical records, financial information and data derived from various online services and to encourage organizations holding personal data to give individuals control over this data, extending beyond their minimum legal requirements to do so. 
-
- 
+The aim is to provide individuals with the practical means to access, obtain, and use datasets containing their personal information, such as purchasing data, traffic data, telecommunications data, medical records, financial information and data derived from various online services and to encourage organizations holding personal data to give individuals control over this data, extending beyond their minimum legal requirements to do so.
 
 Personal data has increasingly significant social, economic, and practical value. According to The World Economic Forum, *"Personal data is becoming a new economic asset class, a valuable resource for the 21st century that will touch all aspects of society"*. The wider application and use of personal data, however, is often conflated with negative predictions of a future devoid of individual privacy.
 
@@ -73,8 +45,6 @@ Figure 1.2: Rights and the level of control that individuals have over their per
 * Sector independent – there is currently significant progress being made in individual sectors, such as health and finance, but a cooperative approach could work across all sectors
 
 * Consent-based data management and control – it is not necessary for the individual to store all his/her data in centralized repositories in order to control the data flow
-
-</br></hr><a name="02"></a>
 
 # 2 - What are the benefits of MyData?
 
@@ -136,8 +106,6 @@ For society:
 
 Figure 2.2: Benefits of MyData approach to the individuals, companies (and other organizations) and civil society.
 
-</br></hr><a name="03"></a>
-
 # 3 - Why is MyData an infrastructure level approach?
 
 MyData reforms the personal data ecosystem at the infrastructure level – but are such high-level reforms necessary? Wouldn’t it be easier to simply open personal data APIs to all services and let organizations negotiate and connect directly amongst themselves?
@@ -161,8 +129,6 @@ Figure 3.1: In the current structureless API economy, if the number of services 
 * enables individuals to have practical and comprehensive control over their digital consents
 
 * can facilitate human-centric monetization of personal data
-
-</br></hr><a name="04"></a>
 
 # 4 - How does MyData approach work in practice?
 
@@ -190,8 +156,6 @@ Figure 4.2: Individuals can change their MyData operator without losing their My
 
 * Due to account portability, individuals can easily choose and change their MyData operator service. The service provider lock-in is minimal.
 
-</br></hr><a name="05"></a>
-
 # 5 - Why is MyData focused on consent?
 
 MyData intends to build trust in personal data services through a combination of transparency, interchangeability, public governance, respectable companies, public awareness, and secure technology. Consent management is the primary mechanism for permitting and enforcing the legal use of data. Via MyData accounts individuals can instruct the services to fetch and process data in accordance with consents that the individual has granted to data services. In technical and legal terms, consent is equivalent to authorization.
@@ -213,8 +177,6 @@ Not all personal data usage requires the consent of data subjects. There has bee
 * the same consent management framework can also be used with minor modification for notifications and assignments
 
 * human and machine readable standardized consents unite technical data management systems, legislative frameworks, and the human perspective
-
-</br></hr><a name="06"></a>
 
 # 6 - Why should companies be interested in MyData?
 
@@ -246,8 +208,6 @@ For the overall viability of the MyData approach, it is also important to set or
 
 * enable the creation of new business based on data processing and management
 
-</br></hr><a name="07"></a>
-
 # 7 - How does MyData help me manage my privacy?"
 
 MyData is a model that equips individuals to control who uses their personal data, to stipulate for what purposes it can be used, and to give informed consent in accordance with personal data protection regulations. It makes data collection and processing more transparent and it helps companies or other organizations implement comprehensive privacy protections.
@@ -274,8 +234,6 @@ Figure 7.2: Another example of standardization but more related to MyData and pe
 
 * machine-readable consents can be visualized, compared, and processed automatically.
 
-</br></hr><a name="08"></a>
-
 # 8 - What are the next steps?
 
 Progress is needed on all three of the MyData principles: human-centric control, usable data, and open business environment. Implementing human-centric control will require raising awareness and improving education around the topic, shifting the attitude among organizations and companies, and increasing regulatory awareness. Usable data requires that companies offer machine-readable personal data via APIs. An open business environment will require the development and adoption of MyData account model and common standards for MyData operator businesses.
@@ -300,9 +258,6 @@ The goal of MyData is to build an infrastructure level service for the managemen
 
 * MyData-supported service pilots
 
-
-</br></hr><a name="09"></a>
-
 # 9 - Give me some examples!
 
 MyData is a high-level approach for organizing personal data in human centric way. MyData principles are applicable to all areas of life. The same personal data can be used in different sectors. Some data types are specific to sectors, such as clinical health data, but the primary objective for the MyData infrastructure is to enable the flow of data between sectors. MyData can be applied to organizing healthcare data management, to developing new kinds of mobility services, to supporting individuals with their personal finances, to informing consumption decisions, and to creating new kind of research databases.
@@ -326,9 +281,6 @@ Loyalty card data can reveal the individual’s consumption history, which can b
 **Example 3: MyData and research data banks**
 
 The development of computational sciences has produced flexible tools that can be used to combine and analyze multiple data sources. Integrating data from multiple sources may increase risks of privacy invasion. According to recent research, over 60% of individuals have expressed their willingness to donate their personal data for research purposes. The MyData infrastructure can provide a common framework for different kinds of research data banks to easily acquire consumers' consent to collect their data. Research data banks could then provide access to their data without violating individual privacy rights, but still maintain the capability to cross-reference data.
-
-
-</br></hr><a name="lins"></a>
 
 # Links and references
 
@@ -368,8 +320,6 @@ The development of computational sciences has produced flexible tools that can b
 
 * Personal Clouds: [http://personal-clouds.org/](http://personal-clouds.org/)
 
-</br></hr>
-
 ## Word from the Finnish Ministry of Transport and Communications
 
 This paper is an English summary that elaborates on a Finnish study commissioned by the Ministry and published in September 2014 on the concept and phenomenon of MyData and its technical, legal, and business implications. The paper is intended to launch a discussion on the potential and impact of a model for handling personal data in a new way.
@@ -378,16 +328,14 @@ The paper provides an overview of the theme and a basis for networking and furth
 
 The paper is intended to encourage those interested in MyData to launch further studies and experiments for testing various MyData models, their feasibility, and dissemination.
 
-</br></hr>
-
 ## Contact information
 
-Email: mailto:antti.poikola@iki.fi</br>
-Phone: +358 44 337 5439</br>
+Email: mailto:antti.poikola@iki.fi
+Phone: +358 44 337 5439
 Twitter: @apoikola
 
-Email: kai.kuikkaniemi@iki.fi</br>
-Phone: +358 50 543 9283</br>
+Email: kai.kuikkaniemi@iki.fi
+Phone: +358 50 543 9283
 Twitter: @kaikuikkaniemi
 
 ![image alt text](images/cc_icon.jpg)      ![image alt text](images/image-okf-logo.jpg)
