@@ -1,10 +1,8 @@
-![image alt text](images/cover_small.png)
-
 This white paper presents a framework, principles, and a model for a human-centric approach to the managing and processing of personal information. The approach – defined as MyData – is based on the right of individuals to access the data collected about them. The core idea is that individuals should be in control of their own data. The MyData approach aims at strengthening digital human rights while opening new opportunities for businesses to develop innovative personal data based services built on mutual trust.
 
 # MyData Principles
 
-![image alt text](images/inner_cover.jpg)
+![](images/inner_cover.jpg)
 
 1. **Human centric control and privacy:** Individuals are empowered actors, not passive targets, in the management of their personal lives both online and offline – they have the right and practical means to manage their data and privacy.
 
@@ -22,9 +20,7 @@ The aim is to provide individuals with the practical means to access, obtain, an
 
 Personal data has increasingly significant social, economic, and practical value. According to The World Economic Forum, *"Personal data is becoming a new economic asset class, a valuable resource for the 21st century that will touch all aspects of society"*. The wider application and use of personal data, however, is often conflated with negative predictions of a future devoid of individual privacy.
 
-![image alt text](images/figure1-1.png)
-
-Figure 1.1: Personal data is everywhere. Businesses in all sectors as well as governmental organizations collect increasing amounts of data about us.
+![Figure 1.1: Personal data is everywhere. Businesses in all sectors as well as governmental organizations collect increasing amounts of data about us.](images/figure1-1.png)
 
 Currently, individuals have little or no control over how data about them and their activities is created or used by businesses, governments, or data brokers. By giving individuals the power to determine how their data can be used, the MyData approach enables the collection and use of personal data in ways that maximize the benefits gained while minimizing the privacy lost.
 
@@ -306,9 +302,9 @@ The development of computational sciences has produced flexible tools that can b
 
 **Other communities**
 
-* Personal Data and Privacy Working Group (Open Knowledge): [http://personal-data.okfn.org/](http://personal-data.okfn.org/)
+* [Personal Data and Privacy Working Group (Open Knowledge)](http://personal-data.okfn.org)
 
-* MyData Working Group in Finland (Open Knowledge Finland): [http://fi.okfn.org/wg/my-data/](http://fi.okfn.org/wg/my-data/)
+* [MyData Working Group in Finland (Open Knowledge Finland)](http://fi.okfn.org/wg/my-data/)
 
 **Related projects and initiatives**
 
@@ -320,7 +316,7 @@ The development of computational sciences has produced flexible tools that can b
 
 * Personal Clouds: [http://personal-clouds.org/](http://personal-clouds.org/)
 
-## Word from the Finnish Ministry of Transport and Communications
+**Word from the Finnish Ministry of Transport and Communications**
 
 This paper is an English summary that elaborates on a Finnish study commissioned by the Ministry and published in September 2014 on the concept and phenomenon of MyData and its technical, legal, and business implications. The paper is intended to launch a discussion on the potential and impact of a model for handling personal data in a new way.
 
@@ -328,7 +324,7 @@ The paper provides an overview of the theme and a basis for networking and furth
 
 The paper is intended to encourage those interested in MyData to launch further studies and experiments for testing various MyData models, their feasibility, and dissemination.
 
-## Contact information
+**Contact information**
 
 Email: mailto:antti.poikola@iki.fi
 Phone: +358 44 337 5439
@@ -338,7 +334,7 @@ Email: kai.kuikkaniemi@iki.fi
 Phone: +358 50 543 9283
 Twitter: @kaikuikkaniemi
 
-![image alt text](images/cc_icon.jpg)      ![image alt text](images/image-okf-logo.jpg)
+![](images/cc_icon.jpg)      ![](images/image-okf-logo.jpg)
 
 This is publication is licensed with the Creative Common BY 4.0 licence.
 
